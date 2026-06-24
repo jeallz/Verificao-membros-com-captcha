@@ -48,9 +48,10 @@ Se você não cometeu nenhum erro, o bot irá inicializar sem nenhum erro.
 
 Após a inicialização do sistema, basta ir em algum canal separado ao canal de destinação da embed de verificação e irá executar, no chat do discord, o comando `!verifricar`. Após a execução do comando, o bot irá enviar a embed de verificação no chat/canal do seu servidor especificado no código
 
-<img width="1482" height="360" alt="image" src="https://github.com/user-attachments/assets/0ab9c99c-3367-40d2-9771-d67ce251f556" />
+<img width="786" height="309" alt="image" src="https://github.com/user-attachments/assets/f1ff72f2-fac2-4555-bdc4-839b9a119925" />
 
 Para um membro se verificar e receber seu cargo para ter acesso as funções de seu servidor, basta clicar no botão `Verificar` presente na embed do bot.
 Quando o botão é clicado, o bot envia uma embed contendo um código captcha e 3 botões com 3 códigos aleatórios, sendo um deles igual ao código da embed, se o usuário clicar no código correto, ele receberá o cargo de verificado especificado no arquivo .env
 
-<img width="1489" height="546" alt="image" src="https://github.com/user-attachments/assets/b31e7f84-7887-468e-8cd9-aa42e0208c12" />
+<img width="894" height="496" alt="image" src="https://github.com/user-attachments/assets/400abcee-279e-4d13-9712-d1d94cdaed7a" />
+
