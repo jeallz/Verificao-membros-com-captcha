@@ -46,7 +46,7 @@ Após ter configurado tudo corretamente, abra o terminal/cmd na pasta dos arquiv
 
 Se você não cometeu nenhum erro, o bot irá inicializar sem nenhum erro.
 
-Após a inicialização do sistema, basta ir em algum canal separado ao canal de destinação da embed de verificação e irá executar, no chat do discord, o comando `!verifricar`. Após a execução do comando, o bot irá enviar a embed de verificação no chat/canal do seu servidor especificado no código
+Após a inicialização do sistema, basta ir em algum canal separado ao canal de destinação da embed de verificação e irá executar, no chat do discord, o comando `!verifricar`. Após a execução do comando, o bot irá enviar a embed de verificação no chat/canal do seu servidor especificado no arquivo .env
 
 <p align="center">
   <img width="621" height="310" alt="image" src="https://github.com/user-attachments/assets/8f83b41b-d732-405b-bc5c-e222061194d3" />
