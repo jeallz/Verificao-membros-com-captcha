@@ -38,6 +38,8 @@ ROLE_ID= ID DO CARGO DE VERIFICADO
 CANAL_ID= ID DO CANAL DE VERIFICAÇÃO
 ```
 
+As variáveis `REDIRECT_URI` e `PORT` não precisam ser alteradas!
+
 ## Execução da aplicação:
 
 Após ter configurado tudo corretamente, abra o terminal/cmd na pasta dos arquivos da aplicação, a mesma qual você instalou as dependência do projeto e execute um dos seguintes comandos:
