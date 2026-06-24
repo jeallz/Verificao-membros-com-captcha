@@ -54,9 +54,3 @@ Para um membro se verificar e receber seu cargo para ter acesso as funções de 
 Quando o botão é clicado, o bot envia uma embed contendo um código captcha e 3 botões com 3 códigos aleatórios, sendo um deles igual ao código da embed, se o usuário clicar no código correto, ele receberá o cargo de verificado especificado no arquivo .env
 
 <img width="1489" height="546" alt="image" src="https://github.com/user-attachments/assets/b31e7f84-7887-468e-8cd9-aa42e0208c12" />
-
-Após isso, o membro recebe o cargo especificado em seu perfil:
-
-<img width="381" height="404" alt="image" src="https://github.com/user-attachments/assets/3d319dca-1775-4132-90e3-0b95b3c449eb" />
-
-
