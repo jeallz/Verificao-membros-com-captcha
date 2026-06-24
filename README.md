@@ -48,7 +48,7 @@ Se você não cometeu nenhum erro, o bot irá inicializar sem nenhum erro.
 
 Após a inicialização do sistema, basta ir em algum canal separado ao canal de destinação da embed de verificação e irá executar, no chat do discord, o comando `!verifricar`. Após a execução do comando, o bot irá enviar a embed de verificação no chat/canal do seu servidor especificado no código
 
-<div center>
+<div style="width:100%; display:gri; place-itens:center;">
   <img width="786" height="309" alt="image" src="https://github.com/user-attachments/assets/f1ff72f2-fac2-4555-bdc4-839b9a119925" />
 </div>
 
