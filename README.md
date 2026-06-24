@@ -58,3 +58,13 @@ Quando o botão é clicado, o bot envia uma embed contendo um código captcha e 
 <p align="center">
   <img width="492" height="312" alt="image" src="https://github.com/user-attachments/assets/06693334-3301-4888-9e00-1c8ef5358a34" />
 </p>
+
+## Hospedagem
+
+Para manter sua aplicação rodando 24/7, não recomendo que deixe o código rodando em seu computador pessoal, já que, quando for desligado, sua aplicação deixará de executar.
+
+Então recomendo que compre ou alugue uma VPS e deixe seu código rodando dentro da VPS para evitar problemas.
+
+## Observações
+
+Não há necessidade de comprar um domínio para hospedar a aplicação, o callback do discord pode ser executado diretamente em seu localhost da VPS, já que só a aplicação irá fazer requisições aos servidores do discord e o usuário não tem necessidade de acessar nenhum link!
